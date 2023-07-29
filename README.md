@@ -1,16 +1,15 @@
 # newsapp
 
-A new Flutter project.
+A new Flutter project that help you to know new news.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+## # Business Screen # Sports Screen # Science Screen
+## When tap on Item allows you to open them in a web view 
+![2 0](https://github.com/Mah-Moud-Zaki/News-App/assets/114239591/8fc27748-e676-4fcb-9b67-68efa5cbefc4)
 
-A few resources to get you started if this is your first Flutter project:
+## Search Screen 
+![2 1](https://github.com/Mah-Moud-Zaki/News-App/assets/114239591/3903d0e7-c71b-4aeb-8575-cf7949866377)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## # User can use night mode or dark mode
+![2 2](https://github.com/Mah-Moud-Zaki/News-App/assets/114239591/416de1aa-fa4c-4b80-97fa-0ac0f6dbafb9)
