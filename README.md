@@ -8,7 +8,7 @@ A new Flutter project that help you to know new news.
 ## When tap on Item allows you to open them in a web view 
 ![2 0](https://github.com/Mah-Moud-Zaki/News-App/assets/114239591/8fc27748-e676-4fcb-9b67-68efa5cbefc4)
 
-## Search Screen 
+## # Search Screen 
 ![2 1](https://github.com/Mah-Moud-Zaki/News-App/assets/114239591/3903d0e7-c71b-4aeb-8575-cf7949866377)
 
 ## # User can use night mode or dark mode
