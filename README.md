@@ -11,5 +11,5 @@ A new Flutter project that help you to know new news.
 ## # Search Screen 
 ![2 1](https://github.com/Mah-Moud-Zaki/News-App/assets/114239591/3903d0e7-c71b-4aeb-8575-cf7949866377)
 
-## # User can use night mode or dark mode
+## # User can use light mode or dark mode
 ![2 2](https://github.com/Mah-Moud-Zaki/News-App/assets/114239591/416de1aa-fa4c-4b80-97fa-0ac0f6dbafb9)
